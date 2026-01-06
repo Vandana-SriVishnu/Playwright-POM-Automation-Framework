@@ -32,21 +32,11 @@ https://www.saucedemo.com/
 
 ---
 
-## 🧠 INTERVIEW PREP – HOW TO EXPLAIN THIS PROJECT
-
-Memorize this **simple explanation** (no jargon overload):
+## 🧠 simple explanation:
 
 > “I built a Playwright automation framework using TypeScript and Page Object Model.  
 > I automated positive and negative login scenarios on SauceDemo, keeping UI locators and actions inside page classes and validations inside tests.  
 > The framework is clean, reusable, and easy to extend.”
-
-This answer alone puts you ahead of many candidates.
-
----
-
-## 🧩 STEP 8.3 – Push to GitHub (When You’re Ready)
-
-### Recommended repo name:
 
 ### Basic commands (no rush):
 ```bash
